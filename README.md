@@ -1,7 +1,5 @@
 # PreviousSumNumber
 
-# PositiveOrNegative
-
 <h2> 👨‍💻 About Project</h2>
 Among the first projects of Amin Mirzaei after learning the basic concepts of Visual Basic <br />
 Take a number as input from the user, then add the previous numbers together and display it on the console screen <br />

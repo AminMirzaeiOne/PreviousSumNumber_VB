@@ -12,7 +12,7 @@ Imports System.Runtime.InteropServices
 <Assembly: AssemblyDescription("Among the first projects of Amin Mirzaei after learning the basics of Visual Basic.NET")>
 <Assembly: AssemblyCompany("AminMirzaeiOne")>
 <Assembly: AssemblyProduct("PreviousSumNumber")>
-<Assembly: AssemblyCopyright("Copyright ©  2024")>
+<Assembly: AssemblyCopyright("Copyright ©  2016")>
 <Assembly: AssemblyTrademark("AminMirzaeiOne")>
 
 <Assembly: ComVisible(False)>

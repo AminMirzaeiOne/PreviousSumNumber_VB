@@ -23,4 +23,5 @@ Take a number as input from the user, then add the previous numbers together and
 4 - View the result
 
 <h2>📷 Screenshots</h2>
-<img width="675" alt="Capture" src="https://github.com/user-attachments/assets/16e3e619-0830-4c90-8a68-06cba6e7c3a4">
+<img width="675" alt="Capture6" src="https://github.com/user-attachments/assets/7563a497-20b5-49ad-9c2e-cf2c093d6c76">
+
